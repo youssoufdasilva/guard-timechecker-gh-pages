@@ -13,7 +13,7 @@ New: Guard TimeChecker
 
 ```md
 Old: astro.exps.youssoufdasilva.com
-New: guard-timechecker.calavium.com (Temp)
+New: guard-timechecker.calavium.com (Temporary)
 ```
 
 ```md
