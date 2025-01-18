@@ -4,9 +4,9 @@ import react from "@astrojs/react";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://guard-timechecker.calavium.com",
+  site: "https://teach-timechecker.calavium.com",
   integrations: [
-    react(), // instead of react({ experimentalReactChildren: true })
+    react(),
     tailwind({
       applyBaseStyles: false,
     }),
