@@ -8,17 +8,17 @@ Replace these terms:
 
 ```md
 Old: Astro Template
-New: 
+New: Guard TimeChecker
 ```
 
 ```md
 Old: astro.exps.youssoufdasilva.com
-New: 
+New: guard-timechecker.calavium.com (Temp)
 ```
 
 ```md
 Old: astro-template-gh-pages
-New: 
+New: guard-timechecker-gh-pages
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
